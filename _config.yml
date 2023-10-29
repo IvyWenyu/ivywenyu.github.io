@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "王雯钰"
+title                    : "Wenyu Wang's Personal HomePage"
 title_separator          : "-"
 name                     : &name "Wenyu Wang"
 description              : &description "A postgraduate student in Operations Research"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenyu Wang"
+  name             : "Wenyu Wang(王雯钰)"
   avatar           : "profile.png"
   bio              : "An OR postgraduate student"
   location         : "Shanghai"
