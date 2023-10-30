@@ -3,9 +3,9 @@ title: "Optimization Theory"
 collection: Notes
 type: "Workshop"
 permalink: /notes/2022-opt-notes
-venue: #"University 1, Department"
+#venue: "University 1, Department"
 date: 2022-01-01
-location: #"City, Country"
+#location: "City, Country"
 ---
 
 This is my notes for optimization theory.
