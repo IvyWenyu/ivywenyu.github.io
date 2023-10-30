@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Short portfolio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Experience
 ======
 * B.S. in applied mathematics, Shanghai University of Finance and Economics, 2017-2021
 * M.S. in operations research, Shanghai University of Finance and Economics, 2021-2024(expected)
