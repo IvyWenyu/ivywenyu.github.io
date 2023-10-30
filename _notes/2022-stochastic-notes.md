@@ -3,9 +3,9 @@ title: "Measure theory/Probability theory/Stochastic process/Stochastic analysis
 collection: Notes
 type: "Course notes"
 permalink: /notes/2022-stochastic-notes
-venue: #"University 1, Department"
+#venue: "University 1, Department"
 date: 2022-01-01
-location: #"City, Country"
+#location: "City, Country"
 ---
 
 These are my notes for measurement, probability theory, stochastic process and stochastic analysis.
