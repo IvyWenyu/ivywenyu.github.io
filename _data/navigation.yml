@@ -1,6 +1,6 @@
 # main links links
 main:
-    title: "Experience"
+  - title: "Experience"
     url: /cv/
 
   - title: "Publications"
