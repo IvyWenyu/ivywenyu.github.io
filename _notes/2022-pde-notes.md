@@ -3,9 +3,9 @@ title: "Partial Differential Equations"
 collection: Notes
 type: "Course notes"
 permalink: /notes/2022-pde-notes
-#venue: "University 1, Department"
+venue: "School of Mathematics"
 date: 2022-01-01
-#location: "City, Country"
+location: "SUFE, China"
 ---
 
 These are my notes for PDE.
