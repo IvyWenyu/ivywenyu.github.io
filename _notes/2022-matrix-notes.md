@@ -3,9 +3,9 @@ title: "Matrix Completion"
 collection: Notes
 type: "Research notes"
 permalink: /notes/2022-matrix-notes
-venue: #"University 1, Department"
+#venue: "University 1, Department"
 date: 2022-01-01
-location: #"City, Country"
+#location: "City, Country"
 ---
 
 These are my notes for matrix complection.
