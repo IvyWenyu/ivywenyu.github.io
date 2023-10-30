@@ -12,6 +12,8 @@ I am a postgradute student majoring in Operations Research. I obtained my bachel
 
 I am very fortunate to be advised by [Dr.Xueting Cui](https://math.sufe.edu.cn/aa/a0/c2019a43680/page.htm) from [School of Mathematics](https://math.sufe.edu.cn/), [SUFE](https://www.sufe.edu.cn/) for my master degree. 
 
+You can find my CV [here](../files/Curriculum%20Vitae_WenyuWang.pdf).
+
 Research Interests
 ======
 Optimization under uncertainty, decision-making problems, matrix optimization
