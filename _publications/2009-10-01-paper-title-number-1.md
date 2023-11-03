@@ -1,5 +1,5 @@
 ---
-title: "A Probalistically-constrained Optimization Methodology for Systemic Risk Analysis"
+title: "A VaR-based Systemic Risk Analysis Methodology: Modeling and Solution Strategy"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'I apologize that the old version is unavailable currently. A new version will be on in early Nov.'
