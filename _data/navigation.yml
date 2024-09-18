@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Experience"
+  - title: "Biography"
     url: /cv/
 
-  - title: "Pre-prints"
+  - title: "Research"
     url: /publications/
 
-  - title: "Skills"
-    url: /skills/    
+  - title: "Teaching"
+    url: /teaching/ 
+
+  - title: "Personal"
+    url: /personal/    
 
   - title: "Notes"
     url: /notes/    
