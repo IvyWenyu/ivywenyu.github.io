@@ -15,7 +15,7 @@ Education Experience
 * M.S. in Optimization and Cybernetics, Shanghai University of Finance and Economics, 2021-2024
 * B.S. in Applied Mathematics, Shanghai University of Finance and Economics, 2017-2021
 
-Internship experience
+Professional experience
 ======
 * Sep 2022 - Jan 2023: Operations research algorithm intern
   * Company: YumChina
