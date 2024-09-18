@@ -1,6 +1,6 @@
----
+#---
 layout: archive
-title: "Short portfolio"
+#title: "Short portfolio"
 permalink: /cv/
 author_profile: true
 redirect_from:
