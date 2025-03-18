@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student majoring in Operations Research and Analytics at IORA，National University of Singapore. I obtained my bachelor degree in Applied Mathematics and my master degree in Optimization and Cybernetics from Shanghai University and Finance and Economics. Currently, I am broadly interested in optimization, particularly in following areas. 
+I am currently a PhD student at NUS Institute of Operations Research and Analytics (IORA). I obtained both my bachelor degree in Applied Mathematics and my master degree in Optimization and Cybernetics from Shanghai University and Finance and Economics. Currently, I am broadly interested in optimization, particularly in following areas. 
 
-I am very fortunate to be advised by [Dr.Xueting Cui](https://math.sufe.edu.cn/aa/a0/c2019a43680/page.htm) from [School of Mathematics](https://math.sufe.edu.cn/), [SUFE](https://www.sufe.edu.cn/) for my master degree. 
+I am very fortunate to be advised by [Prof.Xueting Cui](https://math.sufe.edu.cn/aa/a0/c2019a43680/page.htm) from [School of Mathematics](https://math.sufe.edu.cn/), [SUFE](https://www.sufe.edu.cn/) for my master degree. 
 
 You can find my CV [here](../files/cv_WenyuWang.pdf).
 
