@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at NUS Institute of Operations Research and Analytics (IORA). I obtained both my bachelor degree in Applied Mathematics and my master degree in Optimization and Cybernetics from Shanghai University and Finance and Economics. Currently, I am broadly interested in optimization, particularly in following areas. 
+Hi there~ I am Wenyu, currently a third-year PhD student in the [Institute of Operations Research and Analytics(IORA)](https://iora.nus.edu.sg/) at the National University of Singapore(NUS). I am very fortunate to be advised by [Prof.Bar Light](https://sites.google.com/view/barlight). Prior to my PhD study, I obtained both my bachelor's degree in Mathematics and Applied Mathematics and my master's degree in Optimization and Cybernetics from Shanghai University and Finance and Economics(SUFE). 
 
-I am very fortunate to be advised by [Prof.Xueting Cui](https://math.sufe.edu.cn/aa/a0/c2019a43680/page.htm) from [School of Mathematics](https://math.sufe.edu.cn/), [SUFE](https://www.sufe.edu.cn/) for my master degree. 
+My research lies at the intersection of game theory, mechanism design, and machine learning. Broadly, I am interested in multi-agent decision-making in online marketplaces, with a particular focus on learning and strategic interactions in competitive environments.
 
 You can find my CV [here](../files/cv_WenyuWang.pdf).
 
-Research Interests
-======
-Optimization under uncertainty, decision-making problems
+**Contact**: wang[dot]wenyu[at]u[dot]nus[dot]edu
+
+

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenyu Wang's Personal HomePage"
 title_separator          : "-"
 name                     : &name "Wenyu Wang"
-description              : &description "A postgraduate student in Operations Research"
+description              : &description "A PhD student at NUS Institute of Operations Research and Analytics (IORA)"
 url                      : https://ivywenyu.github.io # the base hostname & protocol for your site e.g. "https://ivywenyu.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "ivyWenyu/ivywenyu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wenyu Wang(王雯钰)"
   avatar           : "profile.png"
-  bio              : "An OR postgraduate student"
-  location         : "Shanghai"
+  bio              : "A PhD student at IORA"
+  location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ivywang@stu.sufe.edu.cn"
+  email            : "wang.wenyu@u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/wenyu-wang-187602347/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
