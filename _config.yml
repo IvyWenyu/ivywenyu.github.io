@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenyu Wang's Personal HomePage"
+title                    : "Wenyu Wang (王雯钰)"
 title_separator          : "-"
 name                     : &name "Wenyu Wang"
 description              : &description "A PhD student at NUS Institute of Operations Research and Analytics (IORA)"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenyu Wang(王雯钰)"
+  name             : "Wenyu Wang"
   avatar           : "profile.png"
   bio              : "A PhD student at IORA"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "wang.wenyu@u.nus.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
