@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenyu Wang (王雯钰)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Wenyu Wang"
 description              : &description "A PhD student at NUS Institute of Operations Research and Analytics (IORA)"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenyu Wang"
+  name             : "Wenyu Wang (王雯钰)"
   avatar           : "profile.png"
-  bio              : "A PhD student at IORA"
+  bio              : "A third-year PhD student at IORA, NUS"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ivyWenyu"
+  github           : #"ivyWenyu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/wenyu-wang-187602347/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-8848-2538"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
