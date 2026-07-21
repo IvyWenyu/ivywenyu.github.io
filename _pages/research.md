@@ -9,14 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Publications
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ## Working Papers
 
-{% for post in site.working_papers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. **[Conjectural Variations in Competitive Dynamic Pricing: A Learning Foundation via Experimentation Design and Feedback Structure](https://arxiv.org/abs/2602.12888v2)**<br>
+   with Bar Light (submitted).
