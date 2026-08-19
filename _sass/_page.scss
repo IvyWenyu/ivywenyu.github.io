@@ -399,3 +399,9 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.news-body {
+  font-size: 0.85em;   // smaller than the title
+  color: #999999;      // lighter grey
+  margin-top: 0.25em;
+}

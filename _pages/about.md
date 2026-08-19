@@ -21,9 +21,9 @@ You can find my CV [here](../files/cv_WenyuWang.pdf).
 ---
 
 # Recent News
-- Presenting at INFORMS 2026:
+- Presenting at the 2026 INFORMS Annual Meeting:
 
-<div style="color:#6a6a6a;" markdown="1">   
-I'll be presenting our paper _Conjectural Variations in Competitive Dynamic Pricing_ at the INFORMS Annual Meeting in San Francisco, US. Find me in the Topics in Online and Onchain Marketplaces Session on Wednesday, November 4 at 8am.
+<div class="news-body" markdown="1">   
+I'll be presenting our paper _Conjectural Variations in Competitive Dynamic Pricing_ . Find me in the Topics in Online and Onchain Marketplaces Session on Wednesday, November 4 at 8am.
 </div>
 
