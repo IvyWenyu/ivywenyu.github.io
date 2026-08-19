@@ -16,6 +16,11 @@ Prior to my PhD journey, I obtained both my bachelor's degree in Mathematics and
 
 You can find my CV [here](../files/cv_WenyuWang.pdf).
 
-**Contact:** wang[dot]wenyu[at]u[dot]nus[dot]edu
+**Contact:** wang.wenyu[at]u.nus.edu
+
+---
+
+# Recent News
+- Upcoming talk: I'll be presenting our paper _Conjectural Variations in Competitive Dynamic Pricing: A Learning Foundation via Experimentation Design and Feedback Structure_ at the INFORMS Annual Meeting in San Francisco, US. Find me in the Topics in Online and Onchain Marketplaces Session on Wednesday, November 4 at 8am.
 
 
