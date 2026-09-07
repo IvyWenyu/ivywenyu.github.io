@@ -21,6 +21,11 @@ You can find my CV [here](../files/cv_WenyuWang.pdf).
 ---
 
 # Recent News
+- Upcoming talk at Analytics for X 2026 <span style="float:right; font-weight:normal; color:#767676;">September 2026</span>
+  <div class="news-body" markdown="1">   
+  I'll be presenting our paper [_Conjectural Variations in Competitive Dynamic Pricing_](https://arxiv.org/pdf/2602.12888) . 
+  </div>
+
 - Presenting at the INFORMS Annual Meeting <span style="float:right; font-weight:normal; color:#767676;">November 2026</span>
   <div class="news-body" markdown="1">   
   I'll be presenting our paper [_Conjectural Variations in Competitive Dynamic Pricing_](https://arxiv.org/pdf/2602.12888) . Find me in the Topics in Online and Onchain Marketplaces Session on Wednesday, November 4 at 8am.
